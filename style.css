@@ -1,0 +1,26 @@
+p{
+    color: red;
+    float: left;
+    background-color: blue;
+    margin-top: 60px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    border:60px ;
+}
+body{
+    font-size: sans-serif;
+}
+span{
+    color: red;
+}
+h6{
+    color: gold;
+    border: 60px;
+    font-size: 40px;
+}
+.spykik{
+    display: flex;
+    justify-content: center;
+}
